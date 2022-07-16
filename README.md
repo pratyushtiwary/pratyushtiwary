@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pratyush
 
-#### I am aspiring data scientist
+#### I am an aspiring data scientist
 
 I made projects just for fun.
 
