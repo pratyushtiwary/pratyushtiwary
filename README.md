@@ -2,8 +2,6 @@
 
 #### I am an aspiring data scientist
 
-I made projects just for fun.
-
 Skills: REACT / JS / HTML / CSS / PYTHON / NodeJS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pratyushtiwary)](https://github.com/ryo-ma/github-profile-trophy)
