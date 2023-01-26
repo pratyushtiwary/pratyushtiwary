@@ -8,8 +8,6 @@ Skills: REACT / JS / HTML / CSS / PYTHON / NodeJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyushtiwary&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pratyushtiwary)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pratyushtiwary)
 
 ![Profile views](https://gpvc.arturio.dev/pratyushtiwary)
